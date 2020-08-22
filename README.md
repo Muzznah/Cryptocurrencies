@@ -19,12 +19,17 @@ The process took in raw data of all the Cryptocurrencies from [Crypto_data.csv](
   
   **-Visualization:**
   - 3D Scatter plot(using hvplot) with 3 PCS as features and hover_name="CoinName" & hover_data=["Algorithm"] 
+ 
   ![](https://github.com/Muzznah/Cryptocurrencies/blob/master/Data/newplot-3DPlot.png)
   
   -Table visualization withe the columns;'CoinName', 'Algorithm', 'ProofType', 'TotalCoinSupply', 'TotalCoinsMined' and 'Class'(to view table click [table](https://github.com/Muzznah/Cryptocurrencies/blob/master/Data/cryptocurrencies_by_cluster.csv)
+  
+  
   ![](https://github.com/Muzznah/Cryptocurrencies/blob/master/Data/table.png)
   
   - 2D scatter plot with x="TotalCoinsMined" and y="TotalCoinSupply" to contrast the number of available coins versus the total number of mined coins.
+  
+  
   ![](https://github.com/Muzznah/Cryptocurrencies/blob/master/Data/2D-ScatterPlot.png)
 ## Resources
 ### Data
