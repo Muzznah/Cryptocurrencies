@@ -25,7 +25,7 @@ The process took in raw data of all the Cryptocurrencies from [Crypto_data.csv](
   ![](https://github.com/Muzznah/Cryptocurrencies/blob/master/Data/table.png)
   
   - 2D scatter plot with x="TotalCoinsMined" and y="TotalCoinSupply" to contrast the number of available coins versus the total number of mined coins.
-  ![](https://github.com/Muzznah/Cryptocurrencies/blob/master/Data/bokeh_plot-2DScatterPlot.png)
+  ![](https://github.com/Muzznah/Cryptocurrencies/blob/master/Data/2D-ScatterPlot.png)
 ## Resources
 ### Data
 ### Software
