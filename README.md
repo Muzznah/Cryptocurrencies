@@ -31,6 +31,16 @@ The process took in raw data of all the Cryptocurrencies from [Crypto_data.csv](
   
   
   ![](https://github.com/Muzznah/Cryptocurrencies/blob/master/Data/2D-ScatterPlot.png)
+  
+## Summary and Conclusion
+Looking at all the visualizations the four groups can be classified as :
+1 High supply, high coins mined (BitTorrent)
+2 High supply, low coins mined (Turtle Coin)
+3 Low Supply, low coins mined
+4 Low Supply, moderate coins mined.
+
 ## Resources
 ### Data
+[](https://github.com/Muzznah/Cryptocurrencies/blob/master/Data/crypto_data.csv)
 ### Software
+Python 3.7.7, Jupyter Notebook 6.0.3, scikit-learn 0.23.1, scipy 1.4.1,pandas 1.0.5, plotly 4.8.2, and hvplot 0.6.0
