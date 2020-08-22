@@ -41,6 +41,6 @@ Looking at all the visualizations the four groups can be classified as :
 
 ## Resources
 ### Data
-[](https://github.com/Muzznah/Cryptocurrencies/blob/master/Data/crypto_data.csv)
+[crypto_data.csv](https://github.com/Muzznah/Cryptocurrencies/blob/master/Data/crypto_data.csv)
 ### Software
 Python 3.7.7, Jupyter Notebook 6.0.3, scikit-learn 0.23.1, scipy 1.4.1,pandas 1.0.5, plotly 4.8.2, and hvplot 0.6.0
